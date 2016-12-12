@@ -131,6 +131,7 @@ input {
   width: 50%;
   height: 30px;
   font-size: 20px;
+  border-radius: 2px;
 }
 
 .searchProfileBtn {
@@ -138,6 +139,7 @@ input {
   margin-left: 20px;
   font-size: 20px;
   border-radius: 5px;
+  color: black;
 }
 
 .authorNameForm {
